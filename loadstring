@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/meisgay154/Tsgirontp.Lua/blob/main/Auto%20iron"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/meisgay154/Tsgirontp.Lua/main/Auto%20iron"))()
